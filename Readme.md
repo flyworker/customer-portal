@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Nebula Block Customer Portal is a web service for Nebula Block customers to manage their account.
+ Customer Portal is a demo web service for Customer relationship management use Fast API and mysql database .
 
 ## Features
 
