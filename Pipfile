@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pydantic = "*"
+fastapi = "*"
+sqlalchemy = "*"
+pyjwt = "*"
+python-dotenv = "*"
+uvicorn = "*"
+passlib = "*"
+python-multipart = "*"
+scikit-learn = "*"
+psycopg2-binary = "*"
+bcrypt = "*"
+stripe = "*"
+nltk = "*"
+textblob = "*"
+pandas = "*"
+numpy = "*"
+pymysql = "*"
+cryptography = "*"
+jose= "*"
+[dev-packages]
+
+[requires]
+python_version = "3.10"
